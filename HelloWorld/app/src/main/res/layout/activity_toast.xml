@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_toast"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_toast_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MoRen"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_toast_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_toast_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Picture"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_toast_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FengZhuang"
+        android:textAllCaps="false" />
+
+</LinearLayout>
+
+
